@@ -1,0 +1,14 @@
+{
+  "name": "damiwork/pazercore",
+  "description": "PazerCore",
+  "version" : "1.0.0",
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "PazerCore\\": "src/"
+    }
+  },
+  "license": "MIT"
+}
