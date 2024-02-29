@@ -1,9 +1,11 @@
 {
   "name": "damiwork/pazercore",
   "description": "PazerCore",
-  "version" : "1.0.0",
+  "version" : "1.0.1",
   "require": {
-    "php": ">=7.4"
+    "php": ">=7.4",
+    "ext-mysqli": "*",
+    "ext-json": "*"
   },
   "autoload": {
     "psr-4": {
